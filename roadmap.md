@@ -1,0 +1,3 @@
+- Build original Rail//Rush endless runner home experience
+- Add canvas gameplay, collisions, collectibles, power-ups, missions, audio, and responsive controls
+- Validate preview rendering and runtime behavior
